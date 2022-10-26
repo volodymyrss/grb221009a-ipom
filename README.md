@@ -2,7 +2,7 @@
 
 ![](composite-light-total_3p.png)
 
-An exceptionally luminous and nearby (z=0.151) gamma-ray burst, GRB 221009A, was observed on the 9th of October 2022 by INTEGRAL, as well as numerous other space and ground telescopes. It was estimated (GCN #32793) that such an event only occurs once in half a millenium, and the chance of it happening in INTEGRAL lifetime was only about 3%. 
+An exceptionally luminous and nearby (z=0.151) Gamma-Ray Burst, GRB 221009A, was observed on the 9th of October 2022 by INTEGRAL, as well as numerous other space and ground telescopes. It was estimated ([GCN #32793](https://gcn.gsfc.nasa.gov/gcn/gcn3/32793.gcn3))  that such an event only occurs once in half a millenium, and the chance of it happening in INTEGRAL lifetime was only about 3%. 
 The capacity of INTEGRAL for nearly continuous all-sky monitoring ensured that it would not miss this once in a lifetime event. This capacity is also crucial for the forthcoming LIGO/Virgo/Kagra 04 run.
 
 Luminous GRBs sometimes reveal a prolonged bright hard X-ray and gamma-ray afterglow, and for a previous GRB INTEGRAL detected it up to few hours after the event (see GRB 120711A, Martin-Carillo+ 2012). INTEGRAL was well prepared to search for this emission in new bright events, and owing to fast follow-up strategy recently optimized for multi-messenger transient counterpart searches, the observation of GRB 221009A started only a few hours after the ToO request, managing to catch early bright afterglow.
