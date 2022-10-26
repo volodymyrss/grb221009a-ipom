@@ -1,6 +1,6 @@
 # INTEGRAL sees once in half a millenium Gamma Ray Burst
 
-![](composite-light.png)
+![](composite-light-total_3p.png)
 
 An exceptionally luminous and nearby (z=0.151) gamma-ray burst, GRB 221009A, was observed on the 9th of October 2022 by INTEGRAL, as well as numerous other space and ground telescopes. It was estimated (GCN #32793) that such an event only occurs once in half a millenium, and the chance of it happening in INTEGRAL lifetime was only about 3%. 
 The capacity of INTEGRAL for nearly continuous all-sky monitoring ensured that it would not miss this once in a lifetime event. This capacity is also crucial for the forthcoming LIGO/Virgo/Kagra 04 run.
@@ -11,9 +11,13 @@ The intensity of the GRB was so high, that its afterglow was detected in INTEGRA
 
 
 
-The image shows GRB 221009A lightcurve recorded by several INTEGRAL instruments. On the left - the prompt emission phase as measured by SPI-ACS, showing the brightest part of the GRB and an extended tail lasting few hours, detected even by a non-imaging detector. On the right - three revolutions of ISGRI and JEM-X observations of the hard X-ray afterglow. For the last point, only JEM-X yields a significant detection. The inset shows combined JEM-X image for the revolution 2559. 
+The image shows GRB 221009A lightcurve recorded by several INTEGRAL instruments. On the left - the prompt emission phase as measured by SPI-ACS, showing the brightest part of the GRB and an extended tail lasting few hours, detected even by a non-imaging detector. On the right - three revolutions of ISGRI and JEM-X observations of the hard X-ray afterglow. For the last point, only JEM-X yields a significant detection. The inset shows combined JEM-X image for the the entire observation (1 to 10 days since the event). 
 
-Credit: V.Savchenko, ISDC, UNIGE, EPFL. Special thank you to ESA Ground segment for rapid follow-up.
+
+
+Credits: 
+* V.Savchenko et al 2022, [ATel #15663](https://www.astronomerstelegram.org/?read=15663) 
+* Special thank you to ESA Ground Segment Team for rapid scheduling of the follow-up.
 
 
 
