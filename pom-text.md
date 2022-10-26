@@ -4,6 +4,8 @@ Luminous GRBs sometimes reveal prolonged bright hard X-ray and gamma-ray aftergl
 
 The intensity of the GRB was so high, that its afterglow was detected in INTEGRAL/JEM-X for almost a week, far exceeding the previous record of a few hours. Existence of detectable Hard X-ray afterglow strengthens the case for Gravitational Wave source follow-up with INTEGRAL. Days after the GRB, the emitting ejecta has substantially decellerated, and emits in much broader range of angles than the intense prompt flash. Gravitational wave sources are much more likely to be observed "side-ways", when the prompt flash is not apparent - as it was also the case in GW170817 (e.g. Savchenko+ 2017). In the future, hard X-ray follow-ups of rapidly expanding population of GW sources will very likely find this kind of emission, providing new source of precise localization.
 
+In additional, INTEGRAL in flight assures continuous almost all-sky monitoring (btw you don't mention ACS in the text), and this is crucial for the forthcoming 04 run.
+
 The image shows GRB 221009A lightcurve recorded by several INTEGRAL instruments. On the left - prompt emission phase as seen by SPI-ACS, showing the brightest part of the GRB and an extended tail unil few hours, seen even in an non-imaging detector. On the right - three revolutions of ISGRI and JEM-X observations of the hard X-ray afterglow. In the last point, only JEM-X yields a significant detection. 
 
 <!-- long BNS
