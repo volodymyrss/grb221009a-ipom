@@ -3,7 +3,7 @@ The capacity of INTEGRAL for nearly continuous all-sky monitoring ensured that i
 
 Luminous GRBs sometimes reveal a prolonged bright hard X-ray and gamma-ray afterglow, and for a previous GRB INTEGRAL detected it up to few hours after the event (see GRB 120711A, Martin-Carillo+ 2012). INTEGRAL was well prepared to search for this emission in new bright events, and owing to fast follow-up strategy recently optimized for multi-messenger transient counterpart searches, the observation of GRB 221009A started only in a few hours after the ToO request, managing to catch early bright afterglow.
 
-The intensity of the GRB was so high, that its afterglow was detected in INTEGRAL/JEM-X for almost a week, far exceeding the previous record of a few hours. Long-lasting afterglows can also appear without prompt GRB if the source is not pointing straight to us: as it was also the case in GW170817. In the future, hard X-ray follow-ups of rapidly expanding population of GW sources will very likely find these so-called "orphan afterglows", providing new source of precise localization for redshifts reachable by GW detectors in the coming years.
+The intensity of the GRB was so high, that its afterglow was detected in INTEGRAL/JEM-X for almost a week, far exceeding the previous record of a few hours. Long-lasting afterglows can also appear without prompt GRB if the source is not pointing straight to us: as it was also the case in GW170817. In the future, hard X-ray follow-ups of rapidly expanding population of GW sources will very likely find these so-called "orphan afterglows", providing new source of precise localization for distances which will be probed by the GW detectors in the coming years.
 
 
 
