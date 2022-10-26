@@ -1,4 +1,4 @@
-# INTEGRAL sees once in half a millenium Gamma Ray Burst
+# INTEGRAL sees once in half a millennium Gamma Ray Burst
 
 ![](composite-light-total_3p.png)
 
