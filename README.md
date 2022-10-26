@@ -11,7 +11,7 @@ The intensity of the GRB was so high, that its afterglow was detected in INTEGRA
 
 
 
-The image shows GRB 221009A lightcurve recorded by several INTEGRAL instruments in days since 2022-10-09 13:17:00. On the left - the prompt emission phase as measured by SPI-ACS, showing the brightest part of the GRB and an extended tail lasting few hours, detected even by a non-imaging detector. On the right - three revolutions of ISGRI and JEM-X observations of the hard X-ray afterglow. For the last point, only JEM-X yields a significant detection. The inset shows combined JEM-X image for the entire observation (1 to 10 days since the event). 
+The image shows GRB 221009A lightcurve recorded by several INTEGRAL instruments in days since 2022-10-09 13:17:00. On the left - the prompt emission phase as measured by SPI-ACS, showing the brightest part of the GRB and an extended tail lasting few hours, detected even by a non-imaging detector. On the right - three revolutions of ISGRI and JEM-X observations of the hard X-ray afterglow. For the last point, only JEM-X yields a significant detection. Larger inset shows combined JEM-X image for the entire observation (1 to 10 days since the event). Smaller inset shows the last observation with significant detection (5.3 to 6.6 days since T0).
 
 
 
